@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=Q9h1FuktujA
 
 
 ### Dataset Used
-IMDB. This is the movie review dataset with positive and negative calssification of the reviews. The data has been taken from https://huggingface.co/datasets/imdb
+IMDB. This is the movie review dataset with positive and negative classification of the reviews. The data has been taken from https://huggingface.co/datasets/imdb
 
 The data containes 25K training sample and 25K testing samples
 
